@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emailjs/browser": "^3.6.2",
+    "emailjs": "^4.0.1",
     "next": "12.2",
     "particles.js": "^2.0.0",
     "react": "^18.2.0",
